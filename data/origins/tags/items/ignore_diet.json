@@ -1,0 +1,320 @@
+{
+    "values": [
+        {
+            "id": "ends_delight:liquid_dragon_egg",
+            "required": false
+        },
+        {
+            "id": "ends_delight:fried_dragon_egg",
+            "required": false
+        },
+        {
+            "id": "ends_delight:bubble_tea",
+            "required": false
+        },
+        {
+            "id": "ends_delight:dragon_breath_soda",
+            "required": false
+        },
+        {
+            "id": "estrogen:estrogen_pill",
+            "required": false
+        },
+        {
+            "id": "estrogen:crystal_estrogen_pill",
+            "required": false
+        },
+        {
+            "id": "estrogen:estrogen_chip_cookie",
+            "required": false
+        },
+        {
+            "id": "estrogen:horse_urine_bottle",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:fried_egg",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:glow_berry_custard",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:egg_sandwich",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:bone_broth",
+            "required": false
+        },
+        {
+            "id": "the_bumblezone:sugar_water_bottle",
+            "required": false
+        },
+        {
+            "id": "the_bumblezone:royal_jelly_bottle",
+            "required": false
+        },
+        {
+            "id": "miners_delight:bone_broth_cup",
+            "required": false
+        },
+        {
+            "id": "garnished:mastic_paste",
+            "required": false
+        },
+        {
+            "id": "garnished:mastic_paste_red",
+            "required": false
+        },
+        {
+            "id": "garnished:mastic_paste_orange",
+            "required": false
+        },
+        {
+            "id": "garnished:mastic_paste_yellow",
+            "required": false
+        },
+        {
+            "id": "garnished:mastic_paste_green",
+            "required": false
+        },
+        {
+            "id": "garnished:mastic_paste_blue",
+            "required": false
+        },
+        {
+            "id": "garnished:mastic_paste_purple",
+            "required": false
+        },
+        {
+            "id": "garnished:icy_mastic_chunk",
+            "required": false
+        },
+        {
+            "id": "garnished:incendiary_stew",
+            "required": false
+        },
+        {
+            "id": "aether:healing_stone",
+            "required": false
+        },
+        {
+            "id": "supplementaries:soap",
+            "required": false
+        },
+        {
+            "id": "croptopia:caramel",
+            "required": false
+        },
+        {
+            "id": "croptopia:molasses",
+            "required": false
+        },
+        {
+            "id": "croptopia:beer",
+            "required": false
+        },
+        {
+            "id": "croptopia:wine",
+            "required": false
+        },
+        {
+            "id": "croptopia:mead",
+            "required": false
+        },
+        {
+            "id": "croptopia:rum",
+            "required": false
+        },
+        {
+            "id": "croptopia:doughnut",
+            "required": false
+        },
+        {
+            "id": "croptopia:nougat",
+            "required": false
+        },
+        {
+            "id": "croptopia:almond_brittle",
+            "required": false
+        },
+        {
+            "id": "croptopia:snicker_doodle",
+            "required": false
+        },
+        {
+            "id": "croptopia:burrito",
+            "required": false
+        },
+        {
+            "id": "croptopia:chimichangas",
+            "required": false
+        },
+        {
+            "id": "croptopia:quesedilla",
+            "required": false
+        },
+        {
+            "id": "croptopia:nether_wart_stew",
+            "required": false
+        },
+        {
+            "id": "croptopia:peanut_butter",
+            "required": false
+        },
+        {
+            "id": "croptopia:potato_soup",
+            "required": false
+        },
+        {
+            "id": "croptopia:the_big_breakfast",
+            "required": false
+        },
+        {
+            "id": "croptopia:scrambled_eggs",
+            "required": false
+        },
+        {
+            "id": "croptopia:sunny_side_eggs",
+            "required": false
+        },
+        {
+            "id": "croptopia:egg_roll",
+            "required": false
+        },
+        {
+            "id": "croptopia:croque_madame",
+            "required": false
+        },
+        {
+            "id": "the_bumblezone:sugar_water_bottle",
+            "required": false
+        },
+        {
+            "id": "create:builders_tea",
+            "required": false
+        },
+        {
+            "id": "hexcasting:creative_unlocker",
+            "required": false
+        },
+        {
+            "id": "minecraft:honey_bottle",
+            "required": false
+        },
+        {
+            "id": "the_bumblezone:honey_crystal_shards",
+            "required": false
+        },
+        {
+            "id": "supplementaries:soap",
+            "required": false
+        },
+        {
+            "id": "croptopia:caramel",
+            "required": false
+        },
+        {
+            "id": "croptopia:molasses",
+            "required": false
+        },
+        {
+            "id": "croptopia:beer",
+            "required": false
+        },
+        {
+            "id": "croptopia:wine",
+            "required": false
+        },
+        {
+            "id": "croptopia:mead",
+            "required": false
+        },
+        {
+            "id": "croptopia:rum",
+            "required": false
+        },
+        {
+            "id": "croptopia:doughnut",
+            "required": false
+        },
+        {
+            "id": "croptopia:nougat",
+            "required": false
+        },
+        {
+            "id": "croptopia:almond_brittle",
+            "required": false
+        },
+        {
+            "id": "croptopia:snicker_doodle",
+            "required": false
+        },
+        {
+            "id": "croptopia:burrito",
+            "required": false
+        },
+        {
+            "id": "croptopia:chimichangas",
+            "required": false
+        },
+        {
+            "id": "croptopia:quesedilla",
+            "required": false
+        },
+        {
+            "id": "croptopia:nether_wart_stew",
+            "required": false
+        },
+        {
+            "id": "croptopia:peanut_butter",
+            "required": false
+        },
+        {
+            "id": "croptopia:potato_soup",
+            "required": false
+        },
+        {
+            "id": "croptopia:the_big_breakfast",
+            "required": false
+        },
+        {
+            "id": "croptopia:scrambled_eggs",
+            "required": false
+        },
+        {
+            "id": "croptopia:sunny_side_eggs",
+            "required": false
+        },
+        {
+            "id": "croptopia:egg_roll",
+            "required": false
+        },
+        {
+            "id": "croptopia:croque_madame",
+            "required": false
+        },
+        {
+            "id": "the_bumblezone:sugar_water_bottle",
+            "required": false
+        },
+        {
+            "id": "create:builders_tea",
+            "required": false
+        },
+        {
+            "id": "hexcasting:creative_unlocker",
+            "required": false
+        },
+        {
+            "id": "minecraft:honey_bottle",
+            "required": false
+        },
+        {
+            "id": "the_bumblezone:honey_crystal_shards",
+            "required": false
+        }
+    ]
+}

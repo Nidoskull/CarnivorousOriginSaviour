@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "Meat Fix",
+        "id": "meatfix",
+        "pack_format": 15,
+        "authors": [
+            "Nidoskull"
+        ],
+        "description": "It sure is nice to eat meats!"
+    }
+}
